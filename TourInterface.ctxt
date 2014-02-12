@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ size()
+comment1.params=
+comment1.target=double\ distance()
+comment2.params=p
+comment2.target=void\ add(Point)
+comment3.params=p
+comment3.target=void\ insertNearest(Point)
+comment4.params=p
+comment4.target=void\ insertSmallest(Point)
+comment5.params=
+comment5.target=void\ print()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+numComments=7
